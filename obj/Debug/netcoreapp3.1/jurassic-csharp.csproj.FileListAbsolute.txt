@@ -1,0 +1,11 @@
+/Users/reidhanson/SDG/week-7/jurassic-csharp/obj/Debug/netcoreapp3.1/jurassic-csharp.csprojAssemblyReference.cache
+/Users/reidhanson/SDG/week-7/jurassic-csharp/obj/Debug/netcoreapp3.1/jurassic-csharp.AssemblyInfoInputs.cache
+/Users/reidhanson/SDG/week-7/jurassic-csharp/obj/Debug/netcoreapp3.1/jurassic-csharp.AssemblyInfo.cs
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp.deps.json
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp.runtimeconfig.json
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp.runtimeconfig.dev.json
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp.dll
+/Users/reidhanson/SDG/week-7/jurassic-csharp/bin/Debug/netcoreapp3.1/jurassic-csharp.pdb
+/Users/reidhanson/SDG/week-7/jurassic-csharp/obj/Debug/netcoreapp3.1/jurassic-csharp.dll
+/Users/reidhanson/SDG/week-7/jurassic-csharp/obj/Debug/netcoreapp3.1/jurassic-csharp.pdb
