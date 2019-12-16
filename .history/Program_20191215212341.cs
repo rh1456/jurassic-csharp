@@ -144,7 +144,7 @@ namespace jurassic_csharp
       var input = "";
       while (input != "quit")
       {
-        Console.WriteLine("Here you can view all the dinos with -view-, enter info for a new dino with -add-, remove a dino with -delete-, transfer enclousres with -transfer-, sort by weight or diet using, -heavy- or -diet-");
+        Console.WriteLine("Here you can view all the dinos with -displayAll-, enter info for a new dino with -add-, remove a dino with -deleteDino-, transfer enclousres with -transfer-, sort by weight or diet using, -heavyDino- or -diet-");
         input = Console.ReadLine().ToLower();
 
         if (input == "add")
